@@ -4,14 +4,17 @@
 
 ### Qualification Round
 
-* ✓ [A. Saving The Universe Again][qual1] (greedy)
-* ✓ [B. Trouble Sort][qual2] (ad-hoc,sorting)
+* ✓ [A. Saving The Universe Again] (greedy)
+* ✓ [B. Trouble Sort] (ad-hoc,sorting)
 
 ### Round 1A
 
-* ✓ [A. Waffle Choppers][round1a1] (implementation)
-* ✓ [B. Bit Party][round1a2] (binary search,sorting)
+* ✓ [A. Waffle Choppers] (implementation)
+* ✓ [B. Bit Party] (binary search,sorting)
 ### Round 1B
 
-* ✓ [A. Rounding Error][round1b1] (greedy)
-* ✓ [B. Mysterious Road Signs][round1b2] (divide and conquer)
+* ✓ [A. Rounding Error] (greedy)
+* ✓ [B. Mysterious Road Signs] (divide and conquer)
+### Round 1C
+
+* ✓ [A. A Whole New World] (strings,implementation)
