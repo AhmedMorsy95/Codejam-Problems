@@ -18,3 +18,4 @@
 ### Round 1C
 
 * ✓ [A. A Whole New World] (strings,implementation)
+* ✓ [B. Lollipop Shop] (interactive,greedy)
