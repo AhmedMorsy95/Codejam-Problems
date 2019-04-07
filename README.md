@@ -1,5 +1,14 @@
 # Previous Codejams
 
+## Google Code Jam 2019
+
+### Qualification Round
+
+* ✓ [A. Foregone Solution] (Ad-hoc,implementation)
+* ✓ [B. You can go your own way] (Ad-hoc,implementation)
+* ✓ [C. Cryptopangrams] (gcd,bigInt)
+
+
 ## Google Code Jam 2018
 
 ### Qualification Round
