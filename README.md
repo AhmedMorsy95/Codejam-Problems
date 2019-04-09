@@ -28,3 +28,11 @@
 
 * ✓ [A. A Whole New World] (strings,implementation)
 * ✓ [B. Lollipop Shop] (interactive,greedy)
+
+
+## Google Code Jam 2017
+
+### Round 1A
+
+* ✓ [A. Alphabet Cake] (divide and conquer,dp,backtracking)
+* ✓ [B. Ratatouille] (greedy,sorting)
