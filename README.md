@@ -36,3 +36,9 @@
 
 * ✓ [A. Alphabet Cake] (divide and conquer,dp,backtracking)
 * ✓ [B. Ratatouille] (greedy,sorting)
+
+
+### Round 1B
+
+* ✓ [A. Steed1] (implementation)
+* ✓ [B. Stable Neighbors] (adhoc,implementation)

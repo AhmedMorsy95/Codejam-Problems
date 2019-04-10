@@ -10,7 +10,7 @@ using namespace std;
 #define ll long long
 #define F first
 #define S second
-#define EPS 1e-9
+#define EPS 1e-16
 #define INF 1e15
 #define rd(a) scanf("%d",&a)
 #define rd2(a,b) scanf("%d %d",&a,&b)
@@ -36,18 +36,33 @@ ii operator + (ii a,ii b){ii ret = a;ret.F += b.F;ret.S += b.S;return ret;}
 
 const int N = 100005;
 
+int n;
+ll d;
+
 int main()
 {
-    //freopen("test.in","r",stdin);
-    // freopen("test.out","w",stdout);
-    //ios_base::sync_with_stdio(false);
+    freopen("test.in","r",stdin);
+    freopen("test2.out","w",stdout);
+    ios_base::sync_with_stdio(false);
     int t;
     cin>>t;
-    for(int i=1;i<=t;i++){
-      cout<<"Case #"<<i<<": ";
-
-
+    for(int test=1;test<=t;test++){
+      cout<<"Case #"<<test<<": ";
+      cin>>d>>n;
+      vector<ll>k(n),s(n);
+      int idx = -1;
+      for(int j=0;j<n;j++){
+        cin>>k[j]>>s[j];
+        if(!j)idx = 0;
+        else{
+            if((d-k[idx])*s[j] < (d-k[j])*s[idx]) idx = j;
+        }
+      }
+      ld t = double(d-k[idx])/(double(s[idx]));
+      ld speed = d/t;
+      cout<<fixed<<setprecision(6)<<speed<<endl;
     }
+
 
     return 0;
 }
