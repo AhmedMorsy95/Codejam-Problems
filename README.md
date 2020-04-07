@@ -8,6 +8,10 @@
 * ✓ [B. You can go your own way] (Ad-hoc,implementation)
 * ✓ [C. Cryptopangrams] (gcd,bigInt)
 
+### Round 1B
+
+* ✓ [A. Manhattan Crepe Cart] (Point covered by max rectangles, sorting)
+
 
 ## Google Code Jam 2018
 
