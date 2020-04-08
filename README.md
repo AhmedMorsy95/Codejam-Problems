@@ -11,6 +11,7 @@
 ### Round 1B
 
 * ✓ [A. Manhattan Crepe Cart] (Point covered by max rectangles, sorting)
+* ✓ [C. Fair Fight] (sorting, two pointers)
 
 
 ## Google Code Jam 2018
