@@ -2,6 +2,12 @@
 
 ## Google Code Jam 2019
 
+### Round 1A
+
+* ✓ [A. Pattern Matching] (Implementation)
+
+## Google Code Jam 2019
+
 ### Qualification Round
 
 * ✓ [A. Foregone Solution] (Ad-hoc,implementation)
