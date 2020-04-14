@@ -5,6 +5,9 @@
 ### Round 1A
 
 * ✓ [A. Pattern Matching] (Implementation)
+* ✓ [B. Pascal Walk] (Observation, Pascal Triangle)
+* ✓ [C. Square Dance] (Observation, Implementation, Graph)
+
 
 ## Google Code Jam 2019
 
